@@ -30,6 +30,7 @@
 <h2>Fun and Games</h2>
 
 - <a href="https://github.com/sarahmxxre/blackjack.git">Blackjack</a>
+- <a href="https://github.com/sarahmxxre/rockpaperscissors.git">Rock, Paper, Scissors</a>
 
 <h2>Connect with me:</h2>
 
