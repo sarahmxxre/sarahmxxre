@@ -27,6 +27,9 @@
 - <a href="https://www.asge.org/home">ASGE</a>
 - <a href="https://stonehousenursery.com/">Stonehouse Nursery</a>
 
+<h2>Fun and Games</h2>
+<a href="https://github.com/sarahmxxre/blackjack.git">Blackjack</a>
+
 <h2>Connect with me:</h2>
 
 - <a href="https://www.twitter.com/sarahmxxre">Twitter</a>
